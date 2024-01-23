@@ -1,4 +1,3 @@
-# firstproject
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,14 +15,14 @@
     <h2>Waana to see more about her</h2>
     <ul>
         <li>
-            <a href="http://127.0.0.1:5500/p7.html" style="background-color: rgb(226, 202, 202);">click here for more image </a>
+            <a href="./p7.html" style="background-color: rgb(226, 202, 202);">click here for more image </a>
         </li>
         <li>
-            <a href="http://127.0.0.1:5500/p8.html" style="background-color: beige;">CLICK here FOR HER DETAILS</a>
+            <a href="./p8.html" style="background-color: beige;">CLICK here FOR HER DETAILS</a>
         </li>
         <li>
-            <a href="http://127.0.0.1:5500/p9.html">note on the cute baby</a>
+            <a href="./p9.html">note on the cute baby</a>
         </li>
     </ul>
     <div style="text-align:center">
-    <a href="http://127.0.0.1:5500/p10.html">review my page</a>
+    <a href="./p10.html">review my page</a>
